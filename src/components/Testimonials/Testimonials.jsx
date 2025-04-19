@@ -46,7 +46,19 @@ const Testimonials = () => {
                         <div className="user-info">
                             <img src={user_2} alt="" />
                             <div>
-                                <h3>Rohit Yadav</h3>
+                                <h3>Amrit prince</h3>
+                                <span>Educity,India</span>
+                            </div>
+                        </div>
+                        <p>Choosing to Pursue my degree at Edusity was one of the best desicions . I'v ever made . The Supportive community, state of the art facilities, and commitment to academic Excellence have truly exceeded my Expectations </p>
+                    </div>
+                </li>
+                <li>
+                    <div className="slide">
+                        <div className="user-info">
+                            <img src={user_3} alt="" />
+                            <div>
+                                <h3>Deepika Kumari</h3>
                                 <span>Educity,India</span>
                             </div>
                         </div>

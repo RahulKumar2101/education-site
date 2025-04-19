@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './components/Navbar/Navbar'
 import Hero from './components/Hero/Hero'
-import Programs from './components/programs/programs'
+import Course from './components/Course/Course'
 import Title from './components/Title/Title'
 import About from './components/about/About'
 import Campus from './components/campus/campus'
@@ -14,7 +14,7 @@ const App = () => {
       <Hero/>
       <div className="container">
         <Title subtitle='Our program' title='What we Choose'/>
-        <Programs/>
+        <Course/>
 
         <About/>
         <Title subtitle='Gallery' title='Campus Photos'/>
